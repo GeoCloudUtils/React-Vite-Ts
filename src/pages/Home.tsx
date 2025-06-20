@@ -1,4 +1,3 @@
-// pages/Home.tsx
 import { Heading } from "../components/Heading";
 import { Cover } from "../components/Cover";
 import { AppGallery } from "../components/AppGallery";
